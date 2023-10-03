@@ -1,3 +1,4 @@
+//added scripts
 let bars = [];
 const def = "#fd0081", chng = "#431f91", finished = "#8ef511", selected = "yellow";
 
