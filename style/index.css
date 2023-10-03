@@ -34,18 +34,22 @@
 	display: flex;
 	flex-wrap: wrap;
 	font-weight: bold;
-	background-color: #fd0081;
+	background-color: #1B3358;
 	margin: 0;
 	color: white;
 	padding: 1vw 1vw 2vw 1vw;
 	margin-bottom: 2vw;
 }
-h1{
+h1 {
 	font-size: 3vw;
-	font-family: Pacifico, cursive;
+	font-family: sans-serif;
 	font-weight: lighter;
 	width: 25%
-	text-align: center;
+    
+ }
+body {
+	margin: 0;
+	padding: 0;
 }
 .range{
 	justify-content: space-evenly;
@@ -60,7 +64,7 @@ h1{
 	border: 0.05vw solid black;
 	width:0.6vw;
 	margin:0.1vw;
-	background-color: #fd0081;
+	background-color: #294D61;
 }
 .sorts{
 	display: flex;
